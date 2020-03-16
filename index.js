@@ -1,7 +1,7 @@
 //Lab Three 
 //Jordan Huitema
 
-let mark = 90;                                  //Input var (must be number between 0-100)
+let mark = 55;                                  //Input var (must be number between 0-100)
 
 if (mark >= 75 && mark <= 100) {                //if mark is between 70pts and 100pts
     console.log("Pass with Distinction")            //print grade description
